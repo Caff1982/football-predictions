@@ -1,0 +1,261 @@
+Season,Position,Team
+6,1,Man United
+6,2,Chelsea
+6,3,Liverpool
+6,4,Arsenal
+6,5,Tottenham
+6,6,Everton
+6,7,Bolton
+6,8,Reading
+6,9,Portsmouth
+6,10,Blackburn
+6,11,Aston
+6,12,Middlesbrough
+6,13,Newcastle
+6,14,Man City
+6,15,West
+6,16,Fulham
+6,17,Wigan
+6,18,Sheffield
+6,19,Charlton
+6,20,Watford
+7,1,Man United
+7,2,Chelsea
+7,3,Arsenal
+7,4,Liverpool
+7,5,Everton
+7,6,Aston
+7,7,Blackburn
+7,8,Portsmouth
+7,9,Man City
+7,10,West
+7,11,Tottenham
+7,12,Newcastle
+7,13,Middlesbrough
+7,14,Wigan
+7,15,Sunderland
+7,16,Bolton
+7,17,Fulham
+7,18,Reading
+7,19,Birmingham
+7,20,Derby
+8,1,Man United
+8,2,Liverpool
+8,3,Chelsea
+8,4,Arsenal
+8,5,Everton
+8,6,Aston
+8,7,Fulham
+8,8,Tottenham
+8,9,West
+8,10,Man City
+8,11,Wigan
+8,12,Stoke
+8,13,Bolton
+8,14,Portsmouth
+8,15,Blackburn
+8,16,Sunderland
+8,17,Hull
+8,18,Newcastle
+8,19,Middlesbrough
+8,20,West
+9,1,Chelsea
+9,2,Man United
+9,3,Arsenal
+9,4,Tottenham
+9,5,Man City
+9,6,Aston
+9,7,Liverpool
+9,8,Everton
+9,9,Birmingham
+9,10,Blackburn
+9,11,Stoke
+9,12,Fulham
+9,13,Sunderland
+9,14,Bolton
+9,15,Wolves
+9,16,Wigan
+9,17,West
+9,18,Burnley
+9,19,Hull
+9,20,Portsmouth
+10,1,Man United
+10,2,Chelsea
+10,3,Man City
+10,4,Arsenal
+10,5,Tottenham
+10,6,Liverpool
+10,7,Everton
+10,8,Fulham
+10,9,Aston
+10,10,Sunderland
+10,11,West
+10,12,Newcastle
+10,13,Stoke
+10,14,Bolton
+10,15,Blackburn
+10,16,Wigan
+10,17,Wolves
+10,18,Birmingham
+10,19,Blackpool
+10,20,West
+11,1,Man City
+11,2,Man United
+11,3,Arsenal
+11,4,Tottenham
+11,5,Newcastle
+11,6,Chelsea
+11,7,Everton
+11,8,Liverpool
+11,9,Fulham
+11,10,West
+11,11,Swansea
+11,12,Norwich
+11,13,Sunderland
+11,14,Stoke
+11,15,Wigan
+11,16,Aston
+11,17,Queens
+11,18,Bolton
+11,19,Blackburn
+11,20,Wolves
+12,1,Man United
+12,2,Man City
+12,3,Chelsea
+12,4,Arsenal
+12,5,Tottenham
+12,6,Everton
+12,7,Liverpool
+12,8,West
+12,9,Swansea
+12,10,West
+12,11,Norwich
+12,12,Fulham
+12,13,Stoke
+12,14,Southampton
+12,15,Aston
+12,16,Newcastle
+12,17,Sunderland
+12,18,Wigan
+12,19,Reading
+12,20,Queens
+13,1,Man City
+13,2,Liverpool
+13,3,Chelsea
+13,4,Arsenal
+13,5,Everton
+13,6,Tottenham
+13,7,Man United
+13,8,Southampton
+13,9,Stoke
+13,10,Newcastle
+13,11,Crystal
+13,12,Swansea
+13,13,West
+13,14,Sunderland
+13,15,Aston
+13,16,Hull
+13,17,West
+13,18,Norwich
+13,19,Fulham
+13,20,Cardiff
+14,1,Chelsea
+14,2,Man City
+14,3,Arsenal
+14,4,Man United
+14,5,Tottenham
+14,6,Liverpool
+14,7,Southampton
+14,8,Swansea
+14,9,Stoke
+14,10,Crystal
+14,11,Everton
+14,12,West
+14,13,West
+14,14,Leicester
+14,15,Newcastle
+14,16,Sunderland
+14,17,Aston
+14,18,Hull
+14,19,Burnley
+14,20,Queens
+15,1,Leicester
+15,2,Arsenal
+15,3,Tottenham
+15,4,Man City
+15,5,Man United
+15,6,Southampton
+15,7,West
+15,8,Liverpool
+15,9,Stoke
+15,10,Chelsea
+15,11,Everton
+15,12,Swansea
+15,13,Watford
+15,14,West
+15,15,Crystal
+15,16,Bournemouth
+15,17,Sunderland
+15,18,Newcastle
+15,19,Norwich
+15,20,Aston
+16,1,Chelsea
+16,2,Tottenham
+16,3,Man City
+16,4,Liverpool
+16,5,Arsenal
+16,6,Man United
+16,7,Everton
+16,8,Southampton
+16,9,Bournemouth
+16,10,West
+16,11,West
+16,12,Leicester
+16,13,Stoke
+16,14,Crystal
+16,15,Swansea
+16,16,Burnley
+16,17,Watford
+16,18,Hull
+16,19,Middlesbrough
+16,20,Sunderland
+17,1,Man City
+17,2,Man United
+17,3,Tottenham
+17,4,Liverpool
+17,5,Chelsea
+17,6,Arsenal
+17,7,Burnley
+17,8,Everton
+17,9,Leicester
+17,10,Newcastle
+17,11,Crystal
+17,12,Bournemouth
+17,13,West
+17,14,Watford
+17,15,Brighton
+17,16,Huddersfield
+17,17,Southampton
+17,18,Swansea
+17,19,Stoke
+17,20,West
+18,1,Man City
+18,2,Liverpool
+18,3,Chelsea
+18,4,Tottenham
+18,5,Arsenal
+18,6,Man United
+18,7,Wolves
+18,8,Everton
+18,9,Leicester
+18,10,West
+18,11,Watford
+18,12,Crystal
+18,13,Newcastle
+18,14,Bournemouth
+18,15,Burnley
+18,16,Southampton
+18,17,Brighton
+18,18,Cardiff
+18,19,Fulham
+18,20,Huddersfield
