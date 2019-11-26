@@ -69,7 +69,7 @@ class LeagueScraper(Scraper):
         super().__init__()
         self.url = 'https://www.football-data.co.uk/englandm.php'
 
-    def get_league_data(self):
+    def get_league_positions(self):
 
         self.driver.get(self.url)
 
@@ -94,7 +94,7 @@ class LeagueScraper(Scraper):
                 filepath = os.path.join(DATA_DIR, fname)
                 df.to_csv(filepath)
 
-class LeaguePositionsScraper(Scraper):
+class LeaguePositionScraper(Scraper):
     """
     Scrapes league positions from Wikipedia and saves them to DATA_DIR
     """
@@ -116,15 +116,15 @@ class LeaguePositionsScraper(Scraper):
             else:
                 url = base_url + str(i) + '-' + str(i+1) + '_Premier_League'
             
-            get_league_standings(self, url)
+            self.get_league_positions(self, url)
 
-    def get_league_standings(self, idx, url):
+    def get_league_positions(self, idx, url):
         self.driver.get(url)
         self.driver.implicitly_wait(1)
         print(f'Scraping {url}')
 
         # In these two seasons the data is further down the page
-        if i in (12, 16):
+        if idx in (12, 16):
             all_rows = self.driver.find_elements_by_xpath('/html/body/div[3]/div[3]/div[4]/div/table[6]/tbody/tr')
         else:
             all_rows = self.driver.find_elements_by_xpath('/html/body/div[3]/div[3]/div[4]/div/table[5]/tbody/tr')
@@ -142,6 +142,4 @@ class LeaguePositionsScraper(Scraper):
                         team = 'Man City'
                     elif split_row[2] == 'United':
                         team = 'Man United'
-                writer.writerow([i, position, team])
-
-
+                writer.writerow([idx, position, team])
