@@ -3,10 +3,12 @@
 Using machine-learning to predict the outcome of football matches. 
 
 ## Requirements
+
 - Python 3
 - Jupyter notebook
 - Pandas
-- Numpy 
+- Numpy
+- Keras
 - Selenium (optional)
 
 ## Description
@@ -21,7 +23,7 @@ For the model itself I used Keras to create a Neural Network. Although the the d
 Licensed under the [MIT](https://choosealicense.com/licenses/mit/) license.
 
 
-## Acknowledgments
+## Credits
 
 For creating the league-stats dataset I took a lot of inspiration from the repository below. The functions for preparing the data were very useful. 
 
@@ -31,4 +33,6 @@ I also took a lot of inspiration from the repository below for the exponential m
 
 - (https://github.com/betfair-datascientists/predictive-models/tree/master/epl)
 
+## Contributions
 
+Any Pull Requests are welcome
